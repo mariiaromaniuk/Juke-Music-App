@@ -15,7 +15,6 @@ router.get('/', async(req, res, next) => {
 
 router.get('/:albumId', async(req, res, next) => {
     try {
-        console.log(req.params.albumId);
         const responce = await Album.findOne({
             where: {
                 id: req.params.albumId
