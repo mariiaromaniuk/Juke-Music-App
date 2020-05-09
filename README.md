@@ -1,4 +1,8 @@
-# Juke
+# Juke Music Web Application 
+Fullstack Web Application built using Express and Sequelize on the server side, and React on the front-end. FS Academy  
+  
+  
+![Alt Text](https://github.com/mariiaromaniuk/Juke-Music-App/blob/master/public/juke-02.gif)
 
 ## Setup
 
